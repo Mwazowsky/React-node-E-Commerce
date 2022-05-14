@@ -27,19 +27,19 @@ export const sliderItems = [
       id: 1,
       img: "https://previews.123rf.com/images/dulsita/dulsita1509/dulsita150900085/44906671-des-morceaux-de-viande-de-poulet-crue.jpg",
       title: "AYAM UTUH",
-      cat: "broiler"
+      cat: "utuh"
     },
     {
       id: 2,
       img: "https://previews.123rf.com/images/dulsita/dulsita1307/dulsita130700075/21201854-pieces-of-raw-chicken-meat.jpg",
       title: "AYAM POTONG",
-      cat:"paha"
+      cat:"potong"
     },
     {
       id: 3,
       img: "https://www.mayoclinichealthsystem.org/-/media/national-files/images/hometown-health/2021/eggs-in-a-wood-bowl.jpg",
       title: "LAIN-LAIN",
-      cat: "telur"
+      cat: "lain-lain"
     },
   ];
 
