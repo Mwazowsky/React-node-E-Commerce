@@ -8,6 +8,8 @@ const ProductSchema = new mongoose.Schema(
     categories: { type: Array },
     size: { type: String },
     color: { type: String },
+    sizeFilter: { type: Array },
+    colorFilter: { type: Array },
     price: { type: Number, required: true },
     
   },
